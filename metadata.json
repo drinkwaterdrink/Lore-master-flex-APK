@@ -1,0 +1,6 @@
+{
+  "name": "LoreMaster Flex",
+  "description": "AI-assisted SillyTavern V2 Lorebook & Character Card V2 universe studio with automatic entity cross-referencing, real-time Canon Auditor, 4-stage Hybrid Agentic Forge, and activation simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

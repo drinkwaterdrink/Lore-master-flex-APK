@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoreMaster Flex</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_forge">Forge</string>
+    <string name="nav_canon">Canon &amp; Graph</string>
+    <string name="nav_simulator">Simulator</string>
+    <string name="architect_copilot_title">Live Architect Co-Pilot</string>
+    <string name="universe_drawer_title">Universes &amp; Projects</string>
+    <string name="export_lorebook_v2">Export Lorebook V2 JSON</string>
+    <string name="export_character_v2">Export Character Card V2</string>
+    <string name="import_lorebook_or_card">Import JSON / PNG Card</string>
+</resources>
